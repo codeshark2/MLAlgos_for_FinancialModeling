@@ -1,4 +1,4 @@
-# MLAlgos_for_FinancialModeling
+# Machine Learning Algorithms for Financial Modeling and Analysis
 
 Implement and analyze various Machine Learning algorithms: 
 
