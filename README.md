@@ -1,4 +1,4 @@
-# Machine Learning Algorithms for Financial Modeling and Analysis
+# Optimizing Bank Marketing Strategies: A Comparative Analysis of Classification Models for Predicting Term Deposit Subscription
 
 Implement and analyze various Machine Learning algorithms: 
 
